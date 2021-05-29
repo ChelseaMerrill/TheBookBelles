@@ -15,6 +15,8 @@ function App() {
         <div>
           <Navigation/>
         </div>
+        <div style={{ backgroundImage: "url(/background.jpg)" }}>
+        
         <Switch>
           <Route exact path="/" component={Homepage} />
           <Route exact path="/meet" component={MeetTheBelles} />
@@ -22,6 +24,7 @@ function App() {
           <Route exact path="/recommendation" component={Recommendation} />
           <Route exact path="/givearec" component={GiveARec} />
         </Switch>
+        </div>
       </div>
           {/* <Footer/> */}
     </Router>

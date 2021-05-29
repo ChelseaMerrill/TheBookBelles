@@ -1,0 +1,13 @@
+.bookCard{
+    display: flex;
+    justify-content: center;
+    border: solid gray;
+    margin-left: 20mm;
+    margin-right: 20mm;
+    margin-bottom: 20mm;
+    background:rgba(228, 228, 228, 0.535)
+}
+
+.info {
+    padding-left: 5mm;
+}

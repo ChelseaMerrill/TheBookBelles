@@ -9,14 +9,12 @@ import "./navbar.css";
 
 
 const Navigation = () => (
-    <nav>
-      <ul>
-        <li><NavLink to='/'>Home</NavLink></li>
-        <li><NavLink to='/meet'>Meet The Belles</NavLink></li>
-        <li><NavLink to='/bookofthemonth'>Book Of The Month</NavLink></li>
-        <li><NavLink to='/recommendation'>Get A Recommendation</NavLink></li>
-        <li><NavLink to='/givearec'>Give A Recommendation</NavLink></li>
-      </ul>
+    <nav className='navBar'>
+        <NavLink to='/'>Home</NavLink>
+        <NavLink to='/meet'>Meet The Belles</NavLink>
+        <NavLink to='/bookofthemonth'>Book Of The Month</NavLink>
+        <NavLink to='/recommendation'>Get A Recommendation</NavLink>
+        <NavLink to='/givearec'>Give A Recommendation</NavLink>
     </nav>
   );
 
