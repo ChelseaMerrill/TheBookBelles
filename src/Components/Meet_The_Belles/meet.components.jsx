@@ -11,7 +11,7 @@ class MeetTheBelles extends React.Component{
                     <div className='Chelsea'>
 
                     </div>
-                    <div className='Alyssa'>git
+                    <div className='Alyssa'>
 
                     </div>
                 </div>
