@@ -15,7 +15,18 @@ class Recommendation extends Component{
                     by: 'name',
                     summary: 'this is the bio',
                     pic: 'pic'
-                }
+                },
+                // {
+                //     id: 1,
+                //     title: 'the book title',
+                //     author: 'author',
+                //     genre: 'genre',
+                //     rating: '5 stars',
+                //     review: 'write the review of the book here',
+                //     by: 'name',
+                //     summary: 'this is the bio',
+                //     pic: 'pic'
+                // }
             ]}
         }
         // display on front of card: title, author, genre, rating, review/by, pic

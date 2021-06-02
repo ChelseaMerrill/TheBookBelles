@@ -18,6 +18,14 @@ class BookOfTheMonth extends Component{
         super(props);
         this.state = {
             bookData: [
+                // {
+                //     id: ,
+                //     month: ,
+                //     title: ,
+                //     author: ,
+                //     image: ,
+                //     summary:  
+                //   },
                 {
                     id: 10,
                     month: "May 2021",
