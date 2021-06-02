@@ -15,7 +15,7 @@ function App() {
         <div>
           <Navigation/>
         </div>
-        <div style={{ backgroundImage: "url(/background.jpg)" }}>
+        <div className='backgroundimage' style={{ backgroundImage: "url(/background.jpg)" }}>
         
         <Switch>
           <Route exact path="/" component={Homepage} />

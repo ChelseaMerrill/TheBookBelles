@@ -2,8 +2,22 @@
     text-align: center;
 }
 
-
-.bookOfTheMonth{
-    
+.bookOfTheMonth{  
     padding-bottom: 20mm;
+}
+
+
+.summary {
+    display: flex;
+    justify-content: center;
+    border: solid gray;
+    margin-left: 40mm;
+    margin-right: 40mm;
+    background:rgba(228, 228, 228, 0.535);
+    padding: 5mm;
+}
+
+.summary p{
+    font-size: 14pt;
+    font-weight:bold;
 }

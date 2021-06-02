@@ -1,5 +1,4 @@
 //Questions:
-    //can I make a card a set size?
     //how do i map so I am displaying two ID's in one object div, and the rest in the other? --> meet page
 
 
