@@ -8,15 +8,20 @@ class Recommendation extends Component{
                 {
                     id: 1,
                     title: 'the book title',
-                    author: 'pic',
+                    author: 'author',
                     genre: 'genre',
                     rating: '5 stars',
                     review: 'write the review of the book here',
                     by: 'name',
-                    summary: 'this is the bio'
+                    summary: 'this is the bio',
+                    pic: 'pic'
                 }
             ]}
         }
+        // display on front of card: title, author, genre, rating, review/by, pic
+        //*OnClick* display on back: sumary
+        //make book searchable by title, author, genre
+        //sort alphabetically
         render(){
             return(
             <div className='recomendationPage'>
