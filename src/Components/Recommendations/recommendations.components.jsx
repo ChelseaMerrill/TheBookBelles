@@ -1,4 +1,5 @@
 import React, {Component} from 'react';
+import './recommendations.css';
 
 class Recommendation extends Component{
     constructor(props){
@@ -36,6 +37,7 @@ class Recommendation extends Component{
         render(){
             return(
             <div className='recomendationPage'>
+                <input></input><button>Search</button>
                 {this.state.allBooksData.map((book) => (
                     <div key={book.id} className='card'>
                         <div classsName="picture">
@@ -43,9 +45,10 @@ class Recommendation extends Component{
                             </div>
                             <div className='info'>
                                 <h3>{book.title}, By: {book.author}</h3>
+                                <p>Genre: {book.genre}</p>
                                 <h4>Rating:{book.rating}</h4>
                                 <p>{book.review}</p>
-                                <p>By: {book.by}</p>
+                                <p>-{book.by}</p>
                             </div>
                     </div>
                 ))}
