@@ -38,7 +38,15 @@ class Recommendation extends Component{
             <div className='recomendationPage'>
                 {this.state.allBooksData.map((book) => (
                     <div key={book.id} className='card'>
-                        <h2>{book.title}</h2>
+                        <div classsName="picture">
+                                <img src={book.pic} height="300px" width="200px"/>
+                            </div>
+                            <div className='info'>
+                                <h3>{book.title}, By: {book.author}</h3>
+                                <h4>Rating:{book.rating}</h4>
+                                <p>{book.review}</p>
+                                <p>By: {book.by}</p>
+                            </div>
                     </div>
                 ))}
             </div> 
