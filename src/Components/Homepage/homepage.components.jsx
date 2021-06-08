@@ -12,9 +12,10 @@ class Homepage extends React.Component{
             <div className='home'>
                 <img src={Icon}/>
                 <div className='bio'>
-                    <h2>bio/blurb</h2>
+                    <h2>The Book Belles book club was created in the midst of the COVID pandemic when two friends decided to take their love of literature and use it to bridge the distance between friends. Each month we explore new authors, genres, and time periods to diversify the experience and discover something new. What began as a childhood dream of two girls in Upsate, New York has rapidly expanded to encompass women in different states and, hopefully, eventually globally.  We meet virtually on the last Sunday of the month to share thoughts, explore plot lines, and celebrate friendship. We are always welcoming new members who want to be a part of our little community. We hope that you join us! </h2>
                 </div>
                 <div className='bookOfTheMonth'>
+                    <h1>What We Are Reading</h1>
                     <h1>June 2021</h1>
                     <img src={BOTMI} width='300px' height='410px'/>
                     <h2>Title: When No One Is Watching</h2>

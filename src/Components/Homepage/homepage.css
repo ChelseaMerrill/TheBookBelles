@@ -4,6 +4,7 @@
 
 .bookOfTheMonth{  
     padding-bottom: 20mm;
+    font-family: initial;
 }
 
 
@@ -15,9 +16,21 @@
     margin-right: 40mm;
     background:rgba(228, 228, 228, 0.535);
     padding: 5mm;
+    font-family: initial;
 }
 
 .summary p{
     font-size: 14pt;
     font-weight:bold;
+}
+
+.bio{
+    display: flex;
+    justify-content: center;
+    border: solid gray;
+    margin-left: 40mm;
+    margin-right: 40mm;
+    background:rgba(228, 228, 228, 0.535);
+    padding: 5mm;
+    font-family: initial;
 }
