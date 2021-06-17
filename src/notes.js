@@ -12,4 +12,12 @@
     //connect to my gmail
     //set up input areas for; title, author, rating, review, by
 
+//color pallettes:
+#AE2C26 - strawberry
+#E5483F - dark pink
+#ED7072 - bubblegum pink
+#EBA78A - dusty pink
+#F5B449 - peach
+#EF711D - tangerine
+
 
