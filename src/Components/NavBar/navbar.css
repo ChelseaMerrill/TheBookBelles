@@ -1,9 +1,9 @@
 .navBar{
     display: flex;
     justify-content: space-around;
-    background-color: rgb(247, 247, 107);
+    background-color: #A46B64;
     font-size: 14pt;
-    color: rgb(60, 60, 60);
+    color: #A46B64;
     padding-top: 5mm;
     padding-bottom: 5mm;
 }

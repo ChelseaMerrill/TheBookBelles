@@ -13,11 +13,9 @@
     //set up input areas for; title, author, rating, review, by
 
 //color pallettes:
-#AE2C26 - strawberry
-#E5483F - dark pink
-#ED7072 - bubblegum pink
-#EBA78A - dusty pink
-#F5B449 - peach
-#EF711D - tangerine
+// #CEB5A2 - dust
+// #62564B - bean
+// #9A6A56 - leather
+// #A46B64 - coral tree
 
 

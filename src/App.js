@@ -5,6 +5,7 @@ import MeetTheBelles from './Components/Meet_The_Belles/meet.components';
 import BookOfTheMonth from './Components/Book_Of_The_Month/bookofthemonth.components';
 import Recommendation from './Components/Recommendations/recommendations.components';
 import GiveARec from './Components/Give_A_Recommendation/givearec.components';
+import Jumbotron from './Components/Jumbotron/jumbotron';
 
 import './App.css';
 
@@ -13,9 +14,9 @@ function App() {
     <Router>
       <div>
         <div>
+          <Jumbotron/>
           <Navigation/>
         </div>
-        <div className='backgroundimage' style={{ backgroundImage: "url(/background.jpg)" }}>
         
         <Switch>
           <Route exact path="/" component={Homepage} />
@@ -24,7 +25,7 @@ function App() {
           <Route exact path="/recommendation" component={Recommendation} />
           <Route exact path="/givearec" component={GiveARec} />
         </Switch>
-        </div>
+
       </div>
           {/* <Footer/> */}
     </Router>
