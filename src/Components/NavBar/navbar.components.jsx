@@ -13,8 +13,9 @@ const Navigation = () => (
         <NavLink to='/'>Home</NavLink>
         <NavLink to='/meet'>Meet The Belles</NavLink>
         <NavLink to='/bookofthemonth'>Book Of The Month</NavLink>
-        <NavLink to='/recommendation'>Get A Recommendation</NavLink>
-        <NavLink to='/givearec'>Give A Recommendation</NavLink>
+        <NavLink to='/recommendation'>And The Category Is</NavLink>
+        <NavLink to='/'>The Burn Book</NavLink>
+        <NavLink to='/givearec'>Join Us</NavLink>
     </nav>
   );
 
