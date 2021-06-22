@@ -1,7 +1,6 @@
 import React, {Component} from 'react';
-import { render } from 'react-dom';
-import {BrowserRouter as Router, Switch, Route,} from "react-router-dom";
-import { NavLink } from 'react-router-dom';
+import {BrowserRouter as Link} from "react-router-dom";
+
 
 
 import "./navbar.css";
@@ -10,12 +9,12 @@ import "./navbar.css";
 
 const Navigation = () => (
     <nav className='navBar'>
-        <NavLink to='/'>Home</NavLink>
-        <NavLink to='/meet'>Meet The Belles</NavLink>
-        <NavLink to='/bookofthemonth'>Book Of The Month</NavLink>
-        <NavLink to='/recommendation'>And The Category Is</NavLink>
-        <NavLink to='/'>The Burn Book</NavLink>
-        <NavLink to='/givearec'>Join Us</NavLink>
+        <Link to='/'>Home</Link>
+        <Link to='/meet'>Meet The Belles</Link>
+        <Link to='/bookofthemonth'>Book Of The Month</Link>
+        <Link to='/recommendation'>And The Category Is</Link>
+        <Link to='/'>The Burn Book</Link>
+        <Link to='/givearec'>Join Us</Link>
     </nav>
   );
 
