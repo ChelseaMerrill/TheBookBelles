@@ -3,10 +3,12 @@
     flex-direction: row;
     justify-content: space-around;
 
-    background-color: #A46B64;
-    font-size: 14pt;
     color: white;
-    
-    padding: 5mm;
-}
+    background-color: #A46B64;
 
+    padding: 5mm;
+
+    width: 100vw;
+    height: 30px;
+}
+ 
