@@ -1,11 +1,12 @@
 import {BrowserRouter as Router, Switch, Route, Link} from "react-router-dom";
-import Homepage from './Components/Homepage/homepage.components';
+import Homepage from "./Components/Homepage/homepage";
 import Navigation from './Components/NavBar/navbar.components';
-import MeetTheBelles from './Components/Meet_The_Belles/meet.components';
-import BookOfTheMonth from './Components/Book_Of_The_Month/bookofthemonth.components';
+import MeetTheBelles from "./Components/Meet_The_Belles/meet";
+import BookOfTheMonth from "./Components/Book_Of_The_Month/bookofthemonth";
 import Recommendation from './Components/Recommendations/recommendations.components';
-import GiveARec from './Components/Give_A_Recommendation/givearec.components';
-import Jumbotron from './Components/Jumbotron/jumbotron';
+import GiveARec from "./Components/Give_A_Recommendation/givearec";
+import Jumbotron from "./Components/Jumbotron/jumbotron";
+
 
 import './App.css';
 
