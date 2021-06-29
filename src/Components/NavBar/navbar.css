@@ -1,10 +1,12 @@
 .navBar{
     display: flex;
-    justify-content: space-evenly;
-    text-align: center;
+    flex-direction: row;
+    justify-content: space-around;
+
     background-color: #A46B64;
     font-size: 14pt;
     color: white;
-    padding-top: 5mm;
-    padding-bottom: 5mm;
+    
+    padding: 5mm;
 }
+
