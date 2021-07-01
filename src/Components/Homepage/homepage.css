@@ -1,12 +1,21 @@
 .home{
     text-align: center;
-    background-color: #CEB5A2;
-    overflow: hidden;
-    width: 100vw;
 }
 
-span{
-    color:#A46B64
+.home h1{
+    color :#A46B64;
+    font-family: 'Petit Formal Script', cursive;
+    font-size: 32pt;
+    margin-top: 100px;
+}
+
+.end{
+    margin-left: 80px;
+    margin-right: 80px;
+}
+
+.end h1{
+    font-size: 20pt;
 }
 
 .bookOfTheMonth{  
@@ -14,7 +23,7 @@ span{
     font-family: initial;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: flex-start;
 }
 
 
@@ -37,9 +46,12 @@ span{
 
 .bio{
     text-align: center;
-    width: 40vw;
     padding: 5mm;
-    font-family: initial;
-    color: #A46B64;
+    font-family:'Petit Formal Script', cursive;
+    line-height: 50pt;
+    color: #62564B ;
+    display: flex;
     justify-content: center;
+    margin-left: 10vw;
+    margin-right: 10vw;
 }

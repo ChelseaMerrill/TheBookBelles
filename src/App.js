@@ -18,7 +18,6 @@ function App() {
           <Jumbotron/>
           <Navigation/>
         </div>
-        
         <Switch>
           <Route exact path="/" component={Homepage} />
           <Route exact path="/meet" component={MeetTheBelles} />
