@@ -1,5 +1,8 @@
 .home{
     text-align: center;
+    background-color: #CEB5A2;
+    overflow: hidden;
+    width: 100vw;
 }
 
 span{
@@ -16,9 +19,7 @@ span{
 
 
 .summary {
-    display: flex;
-    justify-content: center;
-    background:#CEB5A2;
+    background:#A46B64;
     padding: 5mm;
     font-family: initial;
     width: 20vw;
@@ -30,7 +31,7 @@ span{
 }
 
 .content{
-    margin-left: 40mm;
+    margin-left: 20mm;
     margin-right: 20mm;  
 }
 
@@ -40,4 +41,5 @@ span{
     padding: 5mm;
     font-family: initial;
     color: #A46B64;
+    justify-content: center;
 }
