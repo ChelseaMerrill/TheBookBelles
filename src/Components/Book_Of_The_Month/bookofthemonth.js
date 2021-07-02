@@ -9,6 +9,7 @@ import GuestList from './the_guest_list.jpg';
 import SilentPatient from './The_Silent_Patient.jpg';
 import ThreeWomen from './three_women.jpg';
 import Crawdads from './where_the_crawdads_sing.jpg';
+import NoOne from './when_no_one_is_watching.jpg';
 
 
 import './bookofthemonth.css';
@@ -26,6 +27,14 @@ class BookOfTheMonth extends Component{
                 //     image: ,
                 //     summary:  
                 //   },
+                 {
+                    id: 11,
+                    month: "June 2021",
+                    title: 'When No One Is Watching',
+                    author: 'Alyssa Cole',
+                    image: NoOne,
+                    summary: 'Sydney Green is Brooklyn born and raised, but her beloved neighborhood seems to change every time she blinks. Condos are sprouting like weeds, FOR SALE signs are popping up overnight, and the neighbors she’s known all her life are disappearing. To hold onto her community’s past and present, Sydney channels her frustration into a walking tour and finds an unlikely and unwanted assistant in one of the new arrivals to the block—her neighbor Theo. But Sydney and Theo’s deep dive into history quickly becomes a dizzying descent into paranoia and fear. Their neighbors may not have moved to the suburbs after all, and the push to revitalize the community may be more deadly than advertised. When does coincidence become conspiracy? Where do people go when gentrification pushes them out? Can Sydney and Theo trust each other—or themselves—long enough to find out before they too disappear?' 
+                  },
                 {
                     id: 10,
                     month: "May 2021",
