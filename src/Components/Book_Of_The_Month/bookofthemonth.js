@@ -27,6 +27,30 @@ class BookOfTheMonth extends Component{
                 //     image: ,
                 //     summary:  
                 //   },
+                    {
+                    id: 14,
+                    month: '',
+                    title: '',
+                    author: '',
+                    image: '',
+                    summary: '' 
+                  },
+                    {
+                    id: 13,
+                    month: 'August 2021',
+                    title: '',
+                    author: '',
+                    image: '',
+                    summary: '' 
+                  },
+                    {
+                    id: 12,
+                    month: 'July 2021',
+                    title: '',
+                    author: '',
+                    image: '',
+                    summary: '' 
+                  },
                  {
                     id: 11,
                     month: "June 2021",
