@@ -29,27 +29,27 @@ class BookOfTheMonth extends Component{
                 //   },
                     {
                     id: 14,
-                    month: '',
-                    title: '',
-                    author: '',
+                    month: 'September 2021',
+                    title: 'Dark Water',
+                    author: 'Robert Bryndza',
                     image: '',
-                    summary: '' 
+                    summary: 'Beneath the water the body sank rapidly. She would lie still and undisturbed for many years but above her on dry land, the nightmare was just beginning.<br/>When Detective Erika Foster receives a tip-off that key evidence for a major narcotics case was stashed in a disused quarry on the outskirts of London, she orders for it to be searched. From the thick sludge the drugs are recovered, but so is the skeleton of a young child.<br/>The remains are quickly identified as seven-year-old Jessica Collins. The missing girl who made headline news twenty-six years ago.<br/>As Erika tries to piece together new evidence with the old, she must dig deeper and find out more about the fractured Collins family and the original detective, Amanda Baker. A woman plagued by her failure to find Jessica. Erika soon realises this is going to be one of the most complex and demanding cases she has ever taken on.<br/>Is the suspect someone close to home? Someone is keeping secrets. Someone who doesn’t want this case solved. And they’ll do anything to stop Erika from finding the truth.<br/>From the million-copy bestselling author of The Girl in the Ice and The Night Stalker, comes the third heart-stopping book in the Detective Erika Foster series.' 
                   },
                     {
                     id: 13,
                     month: 'August 2021',
-                    title: '',
-                    author: '',
+                    title: 'Survive The Night',
+                    author: 'Riley Sager',
                     image: '',
-                    summary: '' 
+                    summary: 'Josh Baxter, the man behind the wheel, is a virtual stranger to Charlie. They met at the campus ride board, each looking to share the long drive home to Ohio. Both have good reasons for wanting to get away. For Charlie, it's guilt and grief over the murder of her best friend, who became the third victim of the man known as the Campus Killer. For Josh, it's to help care for his sick father. Or so he says. Like the Hitchcock heroine she's named after, Charlie has her doubts. There's something suspicious about Josh, from the holes in his story about his father to how he doesn't seem to want Charlie to see inside the car's trunk. As they travel an empty highway in the dead of night, an increasingly worried Charlie begins to think she's sharing a car with the Campus Killer. Is Josh truly dangerous? Or is Charlie's suspicion merely a figment of her movie-fueled imagination?<br/>What follows is a game of cat-and-mouse played out on night-shrouded roads and in neon-lit parking lots, during an age when the only call for help can be made on a pay phone and in a place where there's nowhere to run. In order to win, Charlie must do one thing--survive the night.', 
                   },
                     {
                     id: 12,
                     month: 'July 2021',
-                    title: '',
-                    author: '',
+                    title: 'American Dirt',
+                    author: 'Jeanine Cummins',
                     image: '',
-                    summary: '' 
+                    summary: 'Lydia Quixano Pérez lives in the Mexican city of Acapulco. She runs a bookstore. She has a son, Luca, the love of her life, and a wonderful husband who is a journalist. And while there are cracks beginning to show in Acapulco because of the drug cartels, her life is, by and large, fairly comfortable.<br/>Even though she knows they’ll never sell, Lydia stocks some of her all-time favorite books in her store. And then one day a man enters the shop to browse and comes up to the register with a few books he would like to buy—two of them her favorites. Javier is erudite. He is charming. And, unbeknownst to Lydia, he is the jefe of the newest drug cartel that has gruesomely taken over the city. When Lydia’s husband’s tell-all profile of Javier is published, none of their lives will ever be the same. <br/>Forced to flee, Lydia and eight-year-old Luca soon find themselves miles and worlds away from their comfortable middle-class existence. Instantly transformed into migrants, Lydia and Luca ride la bestia—trains that make their way north toward the United States, which is the only place Javier’s reach doesn’t extend. As they join the countless people trying to reach el norte, Lydia soon sees that everyone is running from something. But what exactly are they running to?' 
                   },
                  {
                     id: 11,
